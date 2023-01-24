@@ -1,3 +1,3 @@
 CC BY NC 4.0
 https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
-Urheberrecht © 2022 Greenbyte-code
+Urheberrecht © 2023 @LunaDEV-net
